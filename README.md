@@ -9,4 +9,5 @@ Both courses partner well with the book: [_Problem Solving with Python: Using Co
 If you're a teacher interested in offering your own course that uses our material, please feel free to contact us.
 
 Mike Smith (mike underbar smith at harvard dot edu)
+
 Kitty Ascrizzi
